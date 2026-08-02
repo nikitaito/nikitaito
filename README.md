@@ -10,10 +10,10 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/nikanmajidi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:amirnikanmajidi@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/nikitaito">
@@ -28,7 +28,7 @@
 
 ## Breaking systems down to understand how they really work
 
-I'm Nikita Ito, a backend developer working at the intersection of clean system design and cybersecurity.
+I'm Nikan Majidi, a backend developer working at the intersection of clean system design and cybersecurity.
 My sweet spot is the space between building and breaking — writing solid backend systems, then stepping back to look at them the way an attacker would.
 
 ---
@@ -67,9 +67,9 @@ My sweet spot is the space between building and breaking — writing solid backe
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/nikanmajidi/">LinkedIn</a>
 •
-<a href="mailto:YOUR-EMAIL@example.com">Email</a>
+<a href="mailto:amirnikanmajidi@example.com">Email</a>
 •
 <a href="https://github.com/nikitaito">GitHub</a>
 
