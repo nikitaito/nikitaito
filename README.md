@@ -69,7 +69,7 @@ My sweet spot is the space between building and breaking — writing solid backe
 
 <a href="https://www.linkedin.com/in/nikanmajidi/">LinkedIn</a>
 •
-<a href="mailto:amirnikanmajidi@example.com">Email</a>
+<a href="mailto:amirnikanmajidi@gmail.com">Email</a>
 •
 <a href="https://github.com/nikitaito">GitHub</a>
 
